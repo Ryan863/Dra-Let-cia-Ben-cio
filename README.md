@@ -1,5 +1,7 @@
 # Dra. Letícia Benício | Estética Avançada & Lipo HD
 
+> 🌐 **Deploy de Produção Ativo:** [https://dra-leticia-benicio.vercel.app](https://dra-leticia-benicio.vercel.app)
+
 Landing Page Editorial de Alta Conversão desenvolvida com **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **GSAP (com ScrollTrigger)**, componentes inspirados no **21st.dev** e **Lucide Icons**.
 
 Inspirada na estética editorial *"Dark Studio de Luxo"* e direção visual de alta costura (estilo Lumident e referência Neonix), com tons obsidian/grafite suave (`#09090B`), acentos em ouro champanhe e bronze (`#C5A059`, `#E5C396`), anéis de contorno concêntricos e iluminação de estúdio difusa.
